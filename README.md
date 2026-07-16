@@ -104,6 +104,8 @@ I'm a U.S. Army veteran transitioning into full-time cybersecurity with a passio
 - Blue Team Projects
 - Detection Engineering
 - Microsoft Sentinel
+- Splunk
+- Microsoft Defender
 - DFIR Labs
 - Open-source Cybersecurity Projects
 
@@ -117,19 +119,19 @@ I'm a U.S. Army veteran transitioning into full-time cybersecurity with a passio
 - Malware Analysis
 - Detection Engineering
 - Purple Team Methodologies
+- OSNIT Tools
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: www.linkedin.com/in/daniel-bempong
+- 📧 Email: bempong93@gmail.com
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🇺🇸 Military Veteran with overseas deployments.
 - 🔍 I enjoy investigating real-world cyber incidents.
 - 📖 I believe cybersecurity is a lifelong learning journey.
 - ☕ Coffee + SOC alerts = a productive day!
