@@ -1,22 +1,20 @@
 # Hi there 👋 I'm Daniel Bempong
 
-## Cybersecurity Analyst | U.S. Army Veteran | SOC & DFIR Enthusiast
+## Cybersecurity Analyst | SOC & DFIR Enthusiast
 
 Welcome to my GitHub!
 
-I'm a U.S. Army veteran transitioning into full-time cybersecurity with a passion for Security Operations (SOC), Digital Forensics & Incident Response (DFIR), Threat Hunting, and Cloud Security.
+Passion for Security Operations (SOC), Digital Forensics & Incident Response (DFIR), Threat Hunting, and Cloud Security.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Master of Science in Information Systems (Cybersecurity)
-- 🇺🇸 U.S. Army Combat Medic (68W) – Medically Retired
-- 🔐 IT Compliance Auditor (4+ years)
-- 🛡️ Cyber Operations Intern
-- 📍 Based in Michigan
-- 🌱 Currently learning Microsoft Sentinel, KQL, Splunk, Microsoft Defender XDR, and DFIR
-- 🎯 Seeking SOC Analyst / Cybersecurity Analyst opportunities
+- 🛡️ Cyber Operations
+- 📍 Based in Texas
+- 🌱 Microsoft Sentinel, KQL, Splunk, Microsoft Defender XDR, and DFIR
+- 🎯 SOC Analyst / Cybersecurity Analyst
 
 ---
 
