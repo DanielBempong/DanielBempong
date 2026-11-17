@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Daniel Bempong
+# Hi,
+I'm Daniel Bempong
 
 ## Cybersecurity Analyst | SOC & DFIR Enthusiast
 
