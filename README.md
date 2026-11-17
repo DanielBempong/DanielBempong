@@ -88,7 +88,6 @@ Passion for Security Operations (SOC), Digital Forensics & Incident Response (DF
 
 ## 🎯 2026 Goals
 
-- Obtain my first full-time SOC Analyst position
 - Build a strong cybersecurity portfolio
 - Publish SOC investigations and DFIR reports
 - Contribute to open-source cybersecurity projects
@@ -107,17 +106,6 @@ Passion for Security Operations (SOC), Digital Forensics & Incident Response (DF
 - DFIR Labs
 - Open-source Cybersecurity Projects
 
----
-
-## 📚 Currently Learning
-
-- Advanced KQL
-- Microsoft Sentinel
-- Splunk Enterprise Security
-- Malware Analysis
-- Detection Engineering
-- Purple Team Methodologies
-- OSNIT Tools
 
 ---
 
